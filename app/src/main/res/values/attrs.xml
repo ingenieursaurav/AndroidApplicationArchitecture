@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="PagerIndicator">
+        <attr name="defaultIndicator" format="reference" />
+        <attr name="selectedIndicator" format="reference" />
+        <attr name="radius" format="dimension" />
+        <attr name="autoPlay" format="boolean" />
+        <attr name="autoPlayInterval" format="integer" />
+    </declare-styleable>
+</resources>

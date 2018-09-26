@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <item
+        android:id="@+id/action_paged"
+        android:icon="@drawable/ic_more"
+        android:title="Paged"
+        app:showAsAction="always"
+        tools:ignore="HardcodedText" />
+    <item
+        android:id="@+id/action_slider"
+        android:icon="@drawable/ic_slider"
+        android:title="Paged"
+        app:showAsAction="always"
+        tools:ignore="HardcodedText" />
+</menu>
